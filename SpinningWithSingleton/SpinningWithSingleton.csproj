@@ -46,6 +46,7 @@
     <Compile Include="SingletonTake2.cs" />
     <Compile Include="SingletonTake3.cs" />
     <Compile Include="SingletonTake4.cs" />
+    <Compile Include="SingletonTake5.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
